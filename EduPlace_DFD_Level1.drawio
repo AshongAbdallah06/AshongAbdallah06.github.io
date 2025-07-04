@@ -1,9 +1,131 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="Page-1" id="l2gjOQykYVYARHtpdkyz">
-    <mxGraphModel>
+    <mxGraphModel dx="1200" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-21" value="Personal Info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-3" target="cNS5eiSyiyoqyCmzJ9UM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-26" value="School Preferences" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-3" target="cNS5eiSyiyoqyCmzJ9UM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-3" value="STUDENTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-37" value="Appeal Request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-4" target="cNS5eiSyiyoqyCmzJ9UM-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="200" />
+              <mxPoint x="660" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-4" value="PARENTS/&lt;div&gt;GUARDIANS&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-5" value="ADMINS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-24" value="Exam Results" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-6" target="cNS5eiSyiyoqyCmzJ9UM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-6" value="EXAM BODY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-7" value="EDUCATION&amp;nbsp;&lt;div&gt;BOARD&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-8" value="NOTIFICATION SYSTEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-22" value="Store&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Student&lt;/span&gt;&lt;div&gt;Info&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-9" target="cNS5eiSyiyoqyCmzJ9UM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-9" value="1.0 Student Registraion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-10" value="2.0 Collect Exam Results" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-32" value="Save Placement&lt;div&gt;Results&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-11" target="cNS5eiSyiyoqyCmzJ9UM-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-42" value="Placement&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-11" target="cNS5eiSyiyoqyCmzJ9UM-14">
+          <mxGeometry x="-0.4595" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="350" />
+              <mxPoint x="440" y="350" />
+              <mxPoint x="440" y="480" />
+              <mxPoint x="395" y="480" />
+              <mxPoint x="395" y="580" />
+              <mxPoint x="390" y="580" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-11" value="4.0 Placement Algorithm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-30" value="Sends Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-12" target="cNS5eiSyiyoqyCmzJ9UM-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="360" />
+              <mxPoint x="390" y="360" />
+              <mxPoint x="390" y="340" />
+              <mxPoint x="410" y="340" />
+              <mxPoint x="410" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-12" value="3.0 School Selection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-38" value="Log Appeal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-13" target="cNS5eiSyiyoqyCmzJ9UM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-13" value="5.0 Handle Appeals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-39" value="SMS/Email Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-14" target="cNS5eiSyiyoqyCmzJ9UM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-14" value="6.0 Send Notifications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-40" value="Reports &amp;amp; Analytics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-15" target="cNS5eiSyiyoqyCmzJ9UM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-15" value="7.0 Admin Reports" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-28" value="Read Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-17" target="cNS5eiSyiyoqyCmzJ9UM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-17" value="D1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="325" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-29" value="Read Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-18" target="cNS5eiSyiyoqyCmzJ9UM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-18" value="D2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-41" value="Read Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-19" target="cNS5eiSyiyoqyCmzJ9UM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-19" value="D3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-20" value="D4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-25" value="Store Results" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=-0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-10" target="cNS5eiSyiyoqyCmzJ9UM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cNS5eiSyiyoqyCmzJ9UM-43" value="Appeal Result&lt;div&gt;Notification&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.641;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cNS5eiSyiyoqyCmzJ9UM-13" target="cNS5eiSyiyoqyCmzJ9UM-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
