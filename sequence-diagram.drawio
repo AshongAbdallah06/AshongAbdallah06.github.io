@@ -136,14 +136,14 @@
         </mxCell>
         <mxCell id="J_Y39ClF_F--ejTm_QBB-27" value="/post choices" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="276" y="272" as="sourcePoint" />
-            <mxPoint x="420" y="272" as="targetPoint" />
+            <mxPoint x="276" y="273" as="sourcePoint" />
+            <mxPoint x="420" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J_Y39ClF_F--ejTm_QBB-28" value="Save choices" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="431" y="281" as="sourcePoint" />
-            <mxPoint x="585" y="281" as="targetPoint" />
+            <mxPoint x="431" y="285" as="sourcePoint" />
+            <mxPoint x="585" y="285" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -159,21 +159,21 @@
         </mxCell>
         <mxCell id="J_Y39ClF_F--ejTm_QBB-30" value="Success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.5166" relative="1" as="geometry">
-            <mxPoint x="276" y="328" as="targetPoint" />
+            <mxPoint x="276" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="418" y="328" />
+              <mxPoint x="418" y="330" />
             </Array>
-            <mxPoint x="324" y="328" as="sourcePoint" />
+            <mxPoint x="324" y="330" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J_Y39ClF_F--ejTm_QBB-31" value="Success Alert" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.5134" relative="1" as="geometry">
-            <mxPoint x="96" y="347" as="targetPoint" />
+            <mxPoint x="96" y="351" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="264" y="347" />
+              <mxPoint x="264" y="351" />
             </Array>
-            <mxPoint x="170" y="347" as="sourcePoint" />
+            <mxPoint x="170" y="351" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -190,8 +190,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_Y39ClF_F--ejTm_QBB-35" value="Send Placement Alert" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0263" relative="1" as="geometry">
+        <mxCell id="J_Y39ClF_F--ejTm_QBB-35" value="Notify Student" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.2553" y="2" relative="1" as="geometry">
             <mxPoint x="89.63043478260875" y="548" as="targetPoint" />
             <Array as="points">
               <mxPoint x="910" y="540" />
@@ -219,7 +219,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J_Y39ClF_F--ejTm_QBB-42" value="Placement Results" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J_Y39ClF_F--ejTm_QBB-11">
+        <mxCell id="J_Y39ClF_F--ejTm_QBB-42" value="Placement Status" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J_Y39ClF_F--ejTm_QBB-11">
           <mxGeometry x="-0.4309" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="427.56043478260875" y="500.0000000000001" as="sourcePoint" />
             <mxPoint x="752.43" y="500.0000000000001" as="targetPoint" />
