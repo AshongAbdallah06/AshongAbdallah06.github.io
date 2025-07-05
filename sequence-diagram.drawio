@@ -179,7 +179,7 @@
         </mxCell>
         <mxCell id="J_Y39ClF_F--ejTm_QBB-32" value="Run placement&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;algorirthm&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J_Y39ClF_F--ejTm_QBB-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="276" y="372" as="sourcePoint" />
+            <mxPoint x="430" y="370" as="sourcePoint" />
             <mxPoint x="420" y="372" as="targetPoint" />
           </mxGeometry>
         </mxCell>
